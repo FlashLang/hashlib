@@ -2,7 +2,7 @@
   "name": "hashlib",
   "version": "0.1.0",
   "description": "A library for hashing",
-  "main": "src/hashlib.flash",
+  "main": "src/hashlib.flang",
   "author": "FlashLang Company",
   "license": "MIT",
   "dependencies": {},
@@ -12,9 +12,9 @@
   "homepage": "",
   "flash": ">=0.3.0",
   "downloads": {
-    "0.1.0": "https://github.com/FlashLang/hashlib/raw/refs/heads/main/hashlib-0.1.0.fpm"
+    "0.1.0": "https://github.com/user/hashlib/releases/download/v0.1.0/hashlib-0.1.0.fpm"
   },
   "checksums": {
-    "0.1.0": "6e0146ddce7157d525dc3ff9b673bc34507f7193313c0ce296d9a1c3c8c45a20"
+    "0.1.0": "1eb4983514da70ea8266668f71cb36dbcf3cb46231149fcfb13e7e860153f417"
   }
 }
