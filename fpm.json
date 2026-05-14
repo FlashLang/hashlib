@@ -12,7 +12,7 @@
   "homepage": "",
   "flash": ">=0.3.0",
   "downloads": {
-    "0.1.0": "https://github.com/user/hashlib/releases/download/v0.1.0/hashlib-0.1.0.fpm"
+    "0.1.0": "https://github.com/flashlang/hashlib/releases/download/v0.1.0/hashlib-0.1.0.fpm"
   },
   "checksums": {
     "0.1.0": "1eb4983514da70ea8266668f71cb36dbcf3cb46231149fcfb13e7e860153f417"
